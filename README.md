@@ -2,7 +2,7 @@
 
 
 
-# 🧪 Computational Mechanics Lab
+# 🧪 Computational Mechanics
 
 ### Josemar Rocha  
 Mechanical Engineer • CFD • PINNs • Embedded Systems • Scientific Computing
